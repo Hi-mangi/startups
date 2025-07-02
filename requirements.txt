@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+plotly
+squarify
+scikit-learn
+numpy
